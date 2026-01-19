@@ -1,0 +1,1 @@
+I modified asset ripper to have a error and compiler fixer for gorilla tag asset ripped games using unity packages and other things it may be a false positive due to multiple encryption factors and obfuscators
